@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beertocode (Sristy Sharma)
 - 👀 I’m interested in Software development and Machine learning
-- 🌱 I’m currently learning Flask and Deep Learning
+- 🌱 I’m currently learning Flask and javascript
 - 📫 Reach me at : sristy.sharma98@gmail.com
 
 <!---
